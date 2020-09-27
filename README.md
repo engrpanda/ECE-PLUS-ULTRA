@@ -1,5 +1,10 @@
 # ECE-PLUS-ULTRA
 
+https://play.google.com/store/apps/details?id=ece.engrpanda.com&hl=en
+
+https://github.com/engrpanda/ECE-PLUS-ULTRA/releases
+
+
 The purpose of this app is to help ECE students, professionals, and reviewees taking the board exams. The other purpose is there are other apps that has insufficient or limited data, has a lot of Ads, Exclusive only or paid only, so to circumvent all those problems this app was made. :)
 
 This app is sufficient enough that you may have a chance in your entrance exams, school exams, and even board exam.
