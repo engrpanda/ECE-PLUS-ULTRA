@@ -6,18 +6,31 @@ This app is sufficient enough that you may have a chance in your entrance exams,
 
 
 This App consists of 7 category namely
+
 ~FORMULA
+
 ~LECTURE
+
 ~CALCUTECH
+
 ~Q&A
+
 ~MOCK EXAM
+
 ~COACHING
+
 ~ONLINE RESOURCES
+
 • INDIABIX ONLINE
+
 • GOOGLE DRIVE RESOURCES
+
 • CONVERTERS
+
 • MATHWAY PROBLEM SOLVER
+
 • CIRCUIT SIMULATOR
+
 • WEBLINKS
 
 w/ built in PDF viewer
@@ -26,6 +39,7 @@ w/ built in PDF viewer
 
 
 This app is 90% OFFLINE and Ads FREE :)
+
 I've nothing to gain in this app so if this app help you may treat me some coffee if we met :)
 
 
